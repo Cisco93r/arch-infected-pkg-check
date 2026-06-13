@@ -31,6 +31,7 @@ cd NOME_REPOSTORY
 ### 2. Rendi lo script eseguibile
 ```bash
 chmod +x check-infected.sh
+chmod +x arch-guard-forensic-gui.sh
 ```
 
 ### 3. Avvia la scansione
